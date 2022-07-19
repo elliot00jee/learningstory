@@ -1,0 +1,2 @@
+* 자바의 기본
+** xref:variable.adoc[]
