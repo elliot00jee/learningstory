@@ -9,3 +9,4 @@ asciidoc:
     listing-caption: Example@
 nav:
   - modules/spring-mvc/nav.adoc
+  - modules/java-basic/nav.adoc
